@@ -1,8 +1,8 @@
 const chalk = require("chalk");
 
 console.log(chalk.bgRed(" BG RED "));
-console.log(chalk.white(" TEXT WHITE "));
-console.log(chalk.bgRed.white(" BG RED / TEXT WHITE "));
+console.log(chalk.blue(" TEXT BLUE "));
+console.log(chalk.bgRed.blue(" BG RED / TEXT BLUE "));
 
 console.log("\n");
 
